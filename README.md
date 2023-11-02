@@ -23,8 +23,6 @@ Consider Android Application created in Practical-10 and add Sqlite feature such
 
 ->**OUTPUT**:
 
-![WhatsApp Image 2023-11-02 at 9 42 28 PM](https://github.com/Parth1820/MAD_PRACTICAL11_21012011155/assets/139493808/f768a3d9-7a8f-42ac-8f08-3baad9ded8e7)
-
 ![WhatsApp Image 2023-11-02 at 9 42 29 PM](https://github.com/Parth1820/MAD_PRACTICAL11_21012011155/assets/139493808/6f9f74e0-4e64-4249-8442-00be25af1d34)
 
 ![WhatsApp Image 2023-11-02 at 9 42 29 PM (1)](https://github.com/Parth1820/MAD_PRACTICAL11_21012011155/assets/139493808/899f47f4-2a6f-41a0-bca8-f55273fbcdad)
